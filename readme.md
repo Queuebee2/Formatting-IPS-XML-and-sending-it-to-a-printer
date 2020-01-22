@@ -3,7 +3,7 @@
 In Individual Project Skill meetings, every student is given a sheet with their ratings, rated by the other students in the group.
 The tutor has to go through many convoluted, time-consuming methods to create this sheet. The process involves downloading many XML files, opening them Individually in a program like Office Excel and then adjusting many settings to tune it for printing the desired output sheet.
 
-It appears that this system is not well optimized and requires a rework, but this seems not possible at the moment. Instead of a full rework, a small script can be written to automate the process and alleviate the task of producing the rating sheets. Preferably the script is fast and portable, scales with the amount of information in the XML file and lets the user decide the output format.
+It appears that this system is not well optimized and could use a rework, but this seems not possible at the moment. Instead of a full rework, a small script can be written to automate the process and alleviate the task of producing the rating sheets. Preferably the script is fast and portable, scales with the amount of information in the XML file and lets the user decide the output format.
 
 
 ### The data: XML
